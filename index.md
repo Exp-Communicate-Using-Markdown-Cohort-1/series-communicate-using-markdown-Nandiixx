@@ -18,6 +18,6 @@ while True:
 		time.sleep(5)
 
 ``` 
-- [] Comida pro manquinho
-- [] Fazer a atividade do Curso
-- [] Criar um script de localização do mouse na tela 
+- [ ] Comida pro manquinho
+- [ ] Fazer a atividade do Curso
+- [ ] Criar um script de localização do mouse na tela 
